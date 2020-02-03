@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cb20fc5-2b4b-4f1d-a4d4-c2adc5ca6b98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/lib/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1XDd9Nm84sMyPdNA9svyEBBVuzN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/model" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/elastic" />
+      <recent name="$PROJECT_DIR$/consumer" />
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/daviresio/sync-database" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sync-database" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/daviresio/sync-database" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/daviresio/sync-database" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2429" y="189" width="642" height="736" key="#go_build_github.com/daviresio/sync-database" timestamp="1580602347343">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2429" y="189" width="642" height="736" key="#go_build_github.com/daviresio/sync-database/1440.0.2560.1080/4000.180.1600.900/0.180.1440.900@1440.0.2560.1080" timestamp="1580602347343" />
+    <state width="2444" height="231" key="GridCell.Tab.0.bottom" timestamp="1580683952355">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2444" height="231" key="GridCell.Tab.0.bottom/1440.0.2560.1080/4000.180.1600.900/0.180.1440.900@1440.0.2560.1080" timestamp="1580683952355" />
+    <state width="2444" height="231" key="GridCell.Tab.0.center" timestamp="1580683952355">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2444" height="231" key="GridCell.Tab.0.center/1440.0.2560.1080/4000.180.1600.900/0.180.1440.900@1440.0.2560.1080" timestamp="1580683952355" />
+    <state width="2444" height="231" key="GridCell.Tab.0.left" timestamp="1580683952355">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2444" height="231" key="GridCell.Tab.0.left/1440.0.2560.1080/4000.180.1600.900/0.180.1440.900@1440.0.2560.1080" timestamp="1580683952355" />
+    <state width="2444" height="231" key="GridCell.Tab.0.right" timestamp="1580683952355">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2444" height="231" key="GridCell.Tab.0.right/1440.0.2560.1080/4000.180.1600.900/0.180.1440.900@1440.0.2560.1080" timestamp="1580683952355" />
+    <state width="2444" height="314" key="GridCell.Tab.1.bottom" timestamp="1580601690616">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2444" height="314" key="GridCell.Tab.1.bottom/1440.0.2560.1080/4000.180.1600.900/0.180.1440.900@1440.0.2560.1080" timestamp="1580601690616" />
+    <state width="2444" height="314" key="GridCell.Tab.1.center" timestamp="1580601690616">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2444" height="314" key="GridCell.Tab.1.center/1440.0.2560.1080/4000.180.1600.900/0.180.1440.900@1440.0.2560.1080" timestamp="1580601690616" />
+    <state width="2444" height="314" key="GridCell.Tab.1.left" timestamp="1580601690616">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2444" height="314" key="GridCell.Tab.1.left/1440.0.2560.1080/4000.180.1600.900/0.180.1440.900@1440.0.2560.1080" timestamp="1580601690616" />
+    <state width="2444" height="314" key="GridCell.Tab.1.right" timestamp="1580601690616">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2444" height="314" key="GridCell.Tab.1.right/1440.0.2560.1080/4000.180.1600.900/0.180.1440.900@1440.0.2560.1080" timestamp="1580601690616" />
+    <state x="2480" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580593947474">
+      <screen x="1440" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2480" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1440.0.2560.1080/4000.180.1600.900/0.180.1440.900@1440.0.2560.1080" timestamp="1580593947474" />
+  </component>
+</project>
